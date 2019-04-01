@@ -1,0 +1,19 @@
+---
+name: Card
+menu: Components
+---
+
+# Card
+
+import Card from '../components/Card'
+import { Playground, PropsTable } from 'docz'
+
+<PropsTable of={Card} />
+
+<Playground>
+  <Card title="My card" content="My content" tags={['one', 'two']} />
+</Playground>
+
+<Playground>
+  <Card title="Without tags" content="My content" onBookmark={() => {}} />
+</Playground>

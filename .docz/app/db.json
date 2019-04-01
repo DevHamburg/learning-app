@@ -1,0 +1,32 @@
+{
+  "config": {
+    "title": "Learning App",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "ordering": "descending",
+    "version": "0.1.0",
+    "repository": null,
+    "native": false,
+    "codeSandbox": true,
+    "themeConfig": {}
+  },
+  "entries": {
+    "src/components/Card.mdx": {
+      "name": "Card",
+      "menu": "Components",
+      "id": "32865528793b856e164f6e0f8e9ee31b",
+      "filepath": "src/components/Card.mdx",
+      "link": null,
+      "slug": "src-components-card",
+      "route": "/src-components-card",
+      "order": 0,
+      "headings": [
+        {
+          "depth": 1,
+          "slug": "card",
+          "value": "Card"
+        }
+      ]
+    }
+  }
+}
